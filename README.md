@@ -9,9 +9,9 @@ Repositório criado para o estudo dos fundamentos de blockchain
 - Implementação da *Proof of work* (**Mineração**);  
 - Implementação das recompensas de mineração e transações;  
 - Implementação de assinatura e verificação de transações;           
-
-
-
+&nbsp
+&nbsp
+&nbsp
 
 
 
